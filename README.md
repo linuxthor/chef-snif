@@ -9,13 +9,13 @@ Snif can be used to help Chef perform complex actions in a reduced timeframe.
 
 With Snif Chef can perform actions by itself that might ordinarily require an external helper to be called. 
 
-- Disclaimer:
+Disclaimer:
 
-This is purely proof of concept code at this stage, little more than an idle hack. 
+This is purely proof of concept code at this stage, little more than a hack! 
 
 Further work is required to extend this into something useful! 
 
-- Instructions: 
+Instructions: 
 
 1) Build the shared object file under native/ using the provided shell script. 
 2) Profit!   (Tested using chef-solo so far) 
