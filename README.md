@@ -7,15 +7,14 @@ This code demonstrates a very basic Chef cookbook that includes native code in C
 
 Snif can be used to help Chef perform complex actions in a reduced timeframe. 
 
-With Snif Chef can perform actions by itself that might ordinarily require an external helper to be called. 
+With snif Chef can perform actions by itself that might ordinarily require an external helper to be called. 
 
-Disclaimer:
+!!Disclaimer!!
 
-This is purely proof of concept code at this stage, little more than a hack! 
-
-Further work is required to extend this into something useful! 
+This is purely proof of concept code, little more than a hack! Further work is required to 
+extend this into something useful! 
 
 Instructions: 
 
-1) Build the shared object file under native/ using the provided shell script. 
-2) Profit!   (Tested using chef-solo so far) 
+- Build the shared object file under native/ using the provided shell script. 
+- Profit!   (Tested using chef-solo so far) 
