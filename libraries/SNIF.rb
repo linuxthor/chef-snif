@@ -1,5 +1,5 @@
 #
-#  SNIF for Chef - (Simple Native Interface Framework)
+#  SNIF for Chef - (Simple Native Interfacing)
 #  
 #       Uses dl to load native code in process.
 #
