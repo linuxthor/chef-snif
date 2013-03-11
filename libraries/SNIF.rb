@@ -1,9 +1,9 @@
 #
 #  SNIF for Chef - (Simple Native Interfacing)
 #  
-#       Uses dl to load native code in process.
+#  Uses dl to load native code in process.
 #
-#        SNIF gets Chef closer to the action! 
+#  SNIF gets Chef closer to the action! 
 #
 
 require 'dl'
